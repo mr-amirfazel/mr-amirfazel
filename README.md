@@ -1,7 +1,7 @@
 
 # About-me
 a little about who owns the repo's you see
-# Its Fazel here.
+# I am Amirfazel
 student at CE AUT
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Java 
