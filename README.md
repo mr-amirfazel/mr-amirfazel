@@ -8,7 +8,8 @@ student at CE AUT
 - ⚡ Fun fact: you cant buy a new mirror .all of them are used 
 -  😄 Pronouns: Thamoores,Student,Programmer,Magus 
 #  My Skill Set
-![C]()
+![C](c.png)
+![Java](java.png)
 
 # Social's
 
