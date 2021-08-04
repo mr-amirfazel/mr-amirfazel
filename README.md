@@ -4,7 +4,7 @@ a little about who owns the repo's you see
 # I am Amirfazel
 student at CE AUT
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning JavaScript 
 - ⚡ Fun fact: you cant buy a new mirror .all of them are used 
 -  😄 Pronouns: Thamoores,Student,Programmer,Magus 
 #  My Skill Set
