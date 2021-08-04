@@ -7,7 +7,7 @@ student at CE AUT
 - 🌱 I’m currently learning JavaScript 
 - ⚡ Fun fact: you cant buy a new mirror .all of them are used 
 -  😄 Pronouns: Thamoores,Student,Programmer,Magus 
-#  My Skill Set
+#  My Academic Skills
 ![C](c.png)
 ![Java](java.png)
 
