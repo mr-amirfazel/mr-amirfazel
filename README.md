@@ -7,9 +7,15 @@ student at CE AUT
 - 🌱 I’m currently learning JavaScript 
 - ⚡ Fun fact: you cant buy a new mirror .all of them are used 
 -  😄 Pronouns: Thamoores,Student,Programmer,Magus 
+-  never A master always a learner 
 #  My Academic Skills
 ![C](c.png)
 ![Java](java.png)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## also Majored(Majoring) In 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 # Social's
 
