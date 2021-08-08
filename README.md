@@ -1,8 +1,10 @@
 
 # About-me
 a little about who owns the repo's you see
+
 # I am Amirfazel
 student at CE AUT
+grind greed
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScript 
 - ⚡ Fun fact: you cant buy a new mirror .all of them are used 
