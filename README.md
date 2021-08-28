@@ -5,8 +5,8 @@ a little about who owns the repo's you see
 # I am Amirfazel
 student at CE AUT
 grind greed
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JavaScript 
+- 🔭 I’m currently working on Front-End development. 
+- 🌱 I’m currently learning JavaScript,Bootstrap 
 - ⚡ Fun fact: you cant buy a new mirror .all of them are used 
 -  😄 Pronouns: Thamoores,Student,Programmer,Magus 
 -  never A master always a learner 
