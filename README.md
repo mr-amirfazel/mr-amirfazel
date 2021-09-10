@@ -9,6 +9,8 @@ grind greed
 - 🔭 I’m currently working on Front-End development. 
 - 🌱 I’m currently learning JavaScript,Bootstrap 
 - ⚡ Fun fact: you cant buy a new mirror .all of them are used 
+- 😁 random programming Joke
+-  ![Jokes Card](https://readme-jokes.vercel.app/api)
 -  😄 Pronouns: Thamoores,Student,Programmer,Magus 
 -  never A master always a learner 
 #  My Academic Skills
