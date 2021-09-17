@@ -6,7 +6,7 @@ student at CE AUT
 <br>
 grind greed
 - 🔭 I’m currently working on Front-End development. 
-- 🌱 I’m currently learning ReactJS 
+- 🌱 I’m currently learning ***ReactJS*** 
 - ⚡ Fun fact: you cant buy a new mirror .all of them are used 
 -  😄 Pronouns: Thamoores,Student,Programmer,Magus 
 -  never A master always a learner 
