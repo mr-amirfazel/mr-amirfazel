@@ -10,7 +10,6 @@ grind greed
 - ⚡ Fun fact: you cant buy a new mirror .all of them are used 
 -  😄 Pronouns: Thamoores,Student,Programmer,Magus 
 -  never A master always a learner 
--   
 #  My Academic Skills
 ![C](c.png)
 ![Java](java.png)
