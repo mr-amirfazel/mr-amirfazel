@@ -7,7 +7,7 @@ student at CE AUT
 <br>
 grind greed
 - 🔭 I’m currently working on Front-End development. 
-- 🌱 I’m currently learning JavaScript,Bootstrap 
+- 🌱 I’m currently learning ReactJS 
 - ⚡ Fun fact: you cant buy a new mirror .all of them are used 
 - 😁 random programming Joke
  
@@ -24,6 +24,7 @@ grind greed
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 # Social's
 
