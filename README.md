@@ -1,7 +1,9 @@
 # About-me
 a little about who owns the repo's you see
 
-![mona-loading-dark](https://user-images.githubusercontent.com/78591315/145464905-09143b8e-6b42-4e98-ba98-33e6365473bb.gif)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/78591315/145464905-09143b8e-6b42-4e98-ba98-33e6365473bb.gif" width="48">
+</p>
 
 
 # I am Amirfazel
@@ -42,9 +44,8 @@ grind greed
 
 # Stats
 
-![Amirfazel GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-amirfazel&theme=algolia&show_icons=true) 
-<br/>
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mr-amirfazel&theme=algolia)  
+![Amirfazel GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-amirfazel&theme=algolia&show_icons=true)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mr-amirfazel&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-amirfazel&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
