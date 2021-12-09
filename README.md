@@ -11,7 +11,8 @@ student at CE AUT
 <br>
 grind greed
 - 🔭 I’m currently working on Front-End development. 
-- 🌱 I’m currently learning ***C++*** 
+- 🌱 I’m currently focused on my academic education
+<!-- -  ***C++***  -->
 - ⚡ Fun fact: you cant buy a new mirror .all of them are used 
 -  😄 Pronouns: Thamoores,Student,Programmer,Magus 
 -  never A master always a learner 
