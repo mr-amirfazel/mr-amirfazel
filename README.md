@@ -10,9 +10,8 @@ a little about who owns the repo's you see
 student at CE AUT
 <br>
 grind greed
-- 🔭 I’m currently working on Front-End development. 
-- 🌱 I’m currently focused on my academic education
-<!-- -  ***C++***  -->
+- 🔭 I’m currently working on Blockchain. 
+- 🌱 I’m currently learning  ***Python*** 
 - ⚡ Fun fact: you cant buy a new mirror .all of them are used 
 -  😄 Pronouns: Thamoores,Student,Programmer,Magus 
 -  never A master always a learner 
