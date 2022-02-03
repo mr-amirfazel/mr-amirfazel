@@ -14,7 +14,7 @@ student at CE AUT
 - 🌱 I’m currently learning  ***Python*** 
 -  😄 Pronouns: Thamoores,Student,Programmer,Magus 
 -  never A master always a learner 
--  
+
 #  My Academic Skills
 ![C](c.png)
 ![Java](java.png)
