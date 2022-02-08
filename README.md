@@ -5,7 +5,7 @@ a little about who owns the repo's you see
 <img src="https://user-images.githubusercontent.com/78591315/145464905-09143b8e-6b42-4e98-ba98-33e6365473bb.gif" width="48">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=serif&color=%238416B7&size=30&duration=4230&center=true&vCenter=true&lines=Front-end+Web+developer;never+A+master+always+a+learner;grind+greed)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=serif&color=%238416B7&size=30&duration=4230&center=true&vCenter=true&width=1020&height=100&lines=Front-end+Web+developer;Never+A+master+always+a+learner;Grind+Greed)](https://git.io/typing-svg)
 
 # I am Amirfazel
 student at CE AUT
