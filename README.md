@@ -11,7 +11,7 @@ a little about who owns the repo's you see
 student at CE AUT
 <br>
 - 🔭 I’m currently focused on Front-end development. 
-- 🌱 I’m currently learning  ***Nothing*** tbh  
+- 🌱 I’m currently learning  ***React.js***   
 -  😄 Pronouns: Thamoores,Student,Programmer,Magus 
 
 #  My Academic Skills
