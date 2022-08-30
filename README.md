@@ -5,13 +5,13 @@ a little about who owns the repo's you see
 <img src="https://user-images.githubusercontent.com/78591315/145464905-09143b8e-6b42-4e98-ba98-33e6365473bb.gif" width="48">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=serif&color=%238416B7&size=30&duration=4230&center=true&vCenter=true&width=1020&height=100&lines=Newbie+Front-end+Web+developer;Never+A+master+always+a+learner;Grind+Greed)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=serif&color=%238416B7&size=30&duration=4230&center=true&vCenter=true&width=1020&height=100&lines=Junior+Front-end+Web+developer;Never+A+master+always+a+learner;Grind+Greed)](https://git.io/typing-svg)
 
 # I am Amirfazel
 student at CE AUT
 <br>
-- 🔭 I’m currently focused on Front-end development & learning algorithms. 
-- 🌱 I’m currently learning   ***Algorithms***   
+- 🔭 I’m currently focused on Full-stack web development & learning algorithms. 
+- 🌱 I’m currently learning   ***Algorithms & nodejs***   
 -  😄 Pronouns: Thamoores,Student,Programmer,Magus 
 
 #  My Academic Skills
@@ -19,7 +19,7 @@ student at CE AUT
 ![Java](java.png)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-## Also Majored(Still Majoring) In 
+## Also Majored In 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -31,13 +31,8 @@ student at CE AUT
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-
-# Editors
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 
 
 #  random programming Joke 😁
@@ -45,7 +40,7 @@ student at CE AUT
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 # Stats
-
+![trophies](https://github-profile-trophy.vercel.app/?username={mr-amirfazel})
 ![Amirfazel GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-amirfazel&theme=algolia&show_icons=true)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mr-amirfazel&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-amirfazel&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
