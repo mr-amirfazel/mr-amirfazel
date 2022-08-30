@@ -41,9 +41,16 @@ student at CE AUT
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 # Stats
+![stats](https://github-profile-trophy.vercel.app/?username=mr-amirfazel)
+
 ![Amirfazel GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-amirfazel&theme=algolia&show_icons=true)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mr-amirfazel&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-amirfazel&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![activity graph](https://activity-graph.herokuapp.com/graph?username=mr-amirfazel&theme=react-dark)
+# 
+
+<p align="center">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmr-amirfazel1212%2Fhit-counter">
+</p>
 
 
 # Social's
