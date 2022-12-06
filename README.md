@@ -12,7 +12,6 @@ student at CE AUT
 <br>
 - 🔭 I’m currently focused on Front-end web development. 
 - 🌱 I’m currently learning   ***React Js***   
--  😄 Pronouns: Thamoores,Student,Programmer,Magus 
 
 #  My Academic Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
