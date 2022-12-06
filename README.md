@@ -10,8 +10,8 @@ a little about who owns the repo's you see
 # I am Amirfazel
 student at CE AUT
 <br>
-- 🔭 I’m currently focused on Full-stack web development & learning algorithms. 
-- 🌱 I’m currently learning   ***Algorithms & nodejs***   
+- 🔭 I’m currently focused on Front-end web development. 
+- 🌱 I’m currently learning   ***React Js***   
 -  😄 Pronouns: Thamoores,Student,Programmer,Magus 
 
 #  My Academic Skills
