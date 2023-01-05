@@ -10,7 +10,7 @@ a little about who owns the repo's you see
 # I am Amirfazel
 student at CE AUT
 <br>
-- 🔭 I’m currently focused on Front-end web development. 
+- 🔭 I’m currently focused on Front-end web development & algorithms. 
 - 🌱 I’m currently learning   ***React Js***   
 
 #  My Academic Skills
