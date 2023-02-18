@@ -10,8 +10,8 @@ a little about who owns the repo's you see
 # I am Amirfazel
 student at CE AUT
 <br>
-- 🔭 I’m currently focused on Front-end web development & algorithms. 
-- 🌱 I’m currently learning   ***React Js***   
+- 🔭 I’m currently focused on Front-end web development. 
+- 🌱 I’m currently learning   ***React Js & Next Js***   
 
 #  My Academic Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
