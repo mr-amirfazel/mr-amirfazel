@@ -1,5 +1,5 @@
 # About-me
-a little about who owns the repo's you see
+a brief on owner of the repo's you see below
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/78591315/145464905-09143b8e-6b42-4e98-ba98-33e6365473bb.gif" width="48">
@@ -10,8 +10,9 @@ a little about who owns the repo's you see
 # I am Amirfazel
 student at CE AUT
 <br>
-- 🔭 I’m currently focused on Front-end web development. 
-- 🌱 I’m currently learning   ***Angular***   
+- 🎗️ I’m skilled in Front-end web development.
+- 🔭 I’m currently focused on improving my cloud computing knowledge. 
+- 🌱 I’m currently learning   ***Docker, kubernetes and go***   
 
 #  My Academic Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
