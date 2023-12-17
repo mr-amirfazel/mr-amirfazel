@@ -12,7 +12,7 @@ student at CE AUT
 <br>
 - 🎗️ I’m skilled in Front-end web development.
 - 🔭 I’m currently focused on full-stack web development. 
-- 🌱 I’m currently learning   ***NextJS & NestJS***   
+- 🌱 I’m currently learning   ***NextJS, NestJS and Go***   
 
 #  My Academic Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
