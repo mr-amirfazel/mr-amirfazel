@@ -11,8 +11,8 @@ a brief on owner of the repo's you see below
 student at CE AUT
 <br>
 - 🎗️ I’m skilled in Front-end web development.
-- 🔭 I’m currently focused on improving my cloud computing knowledge. 
-- 🌱 I’m currently learning   ***Docker, kubernetes and go***   
+- 🔭 I’m currently focused on full-stack web development. 
+- 🌱 I’m currently learning   ***NextJS & NestJS***   
 
 #  My Academic Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
