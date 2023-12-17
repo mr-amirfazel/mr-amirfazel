@@ -34,19 +34,16 @@ student at CE AUT
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-
-
-#  random programming Joke 😁
- 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
 # Stats
 ![stats](https://github-profile-trophy.vercel.app/?username=mr-amirfazel)
 
 ![Amirfazel GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-amirfazel&theme=algolia&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-amirfazel&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![activity graph](https://activity-graph.herokuapp.com/graph?username=mr-amirfazel&theme=react-dark)
 # 
 
 <p align="center">
@@ -56,4 +53,8 @@ student at CE AUT
 
 # Social's
 
-   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mr-amirfazel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/cleverapache)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/mr_amirfazel)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mr.amirfazel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/typical_live_wire)  
+[<img src='https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white' alt='X' height='40'>](https://twitter.com/https://twitter.com/cleverapache)      [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='40'>](https://www.instagram.com/mr.amirfazel/)  [<img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='telegram' height='40'>](https://t.me/typical_live_wire)   [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>]([https://t.me/typical_live_wire](https://www.linkedin.com/in/amirfazel-koozegar-kaleji-229682227/)https://www.linkedin.com/in/amirfazel-koozegar-kaleji-229682227/) 
+
+#  Joke of the Day 😁
+ 
+![Jokes Card](https://readme-jokes.vercel.app/api)
