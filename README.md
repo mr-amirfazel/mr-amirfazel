@@ -11,8 +11,8 @@ a brief on owner of the repo's you see below
 student at CE AUT
 <br>
 - 🎗️ I’m skilled in Front-end web development.
-- 🔭 I’m currently focused on backend web development. 
-- 🌱 I’m currently learning   ***Go***   
+- 🔭 I’m currently focused on improving my frontend lnowledge. 
+- 🌱 I’m currently learning   ***^_^***   
 
 #  My Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -43,17 +43,11 @@ student at CE AUT
 
 ![Amirfazel GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-amirfazel&theme=algolia&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-amirfazel&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-# 
 
-<p align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmr-amirfazel1212%2Fhit-counter">
-</p>
-
-
-# Social's
+## Social's
 
 [<img src='https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white' alt='X' height='40'>](https://twitter.com/https://twitter.com/cleverapache)      [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='40'>](https://www.instagram.com/mr.amirfazel/)  [<img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='telegram' height='40'>](https://t.me/typical_live_wire)   [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>]([https://t.me/typical_live_wire](https://www.linkedin.com/in/amirfazel-koozegar-kaleji-229682227/)https://www.linkedin.com/in/amirfazel-koozegar-kaleji-229682227/) 
 
-#  Joke of the Day 😁
+##  Joke of the Day 😁
  
 ![Jokes Card](https://readme-jokes.vercel.app/api)
