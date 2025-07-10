@@ -8,11 +8,11 @@ a brief on owner of the repo's you see below
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=serif&color=%238416B7&size=30&duration=4230&center=true&vCenter=true&width=1020&height=100&lines=Junior+Front-end+Web+developer;Never+A+master+always+a+learner;Grind+Greed)](https://git.io/typing-svg)
 
 # I am Amirfazel
-student at CE AUT
+Bsc. Student at CE AUT
 <br>
 - 🎗️ I’m skilled in Front-end web development.
-- 🔭 I’m currently focused on improving my frontend lnowledge. 
-- 🌱 I’m currently learning   ***^_^***   
+- 🔭 I’m currently focused on mastering full-stack development. 
+- 🌱 I’m currently learning   ***C# and DotNet***   
 
 #  My Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
