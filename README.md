@@ -11,8 +11,8 @@ a brief on owner of the repo's you see below
 Bsc. Student at CE AUT
 <br>
 - 🎗️ I’m skilled in Front-end web development.
-- 🔭 I’m currently focused on mastering full-stack development. 
-- 🌱 I’m currently learning   ***C# and DotNet***   
+- 🔭 I’m currently focused on improving my frontend system design knowledge. 
+- 🌱 I’m currently learning   ***Nothing ^_^***   
 
 #  My Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
