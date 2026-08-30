@@ -5,14 +5,14 @@ a brief on owner of the repo's you see below
 <img src="https://user-images.githubusercontent.com/78591315/145464905-09143b8e-6b42-4e98-ba98-33e6365473bb.gif" width="48">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=serif&color=%238416B7&size=30&duration=4230&center=true&vCenter=true&width=1020&height=100&lines=Junior+Front-end+Web+developer;Never+A+master+always+a+learner;Grind+Greed)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=serif&color=%238416B7&size=30&duration=4230&center=true&vCenter=true&width=1020&height=100&lines=Mid+Full-stack+developer;Never+A+master+always+a+learner;Grind+Greed)](https://git.io/typing-svg)
 
 # I am Amirfazel
-Bsc. Student at CE AUT
+Bsc. Graduate at CE AUT
 <br>
-- 🎗️ I’m skilled in Front-end web development.
-- 🔭 I’m currently focused on improving my frontend system design knowledge. 
-- 🌱 I’m currently learning   ***Nothing ^_^***   
+- 🎗️ I’m skilled in Full-stack web development.
+- 🔭 I’m currently focused on improving my backend engineering knowledge. 
+- 🌱 I’m currently studying   ***Golang***   
 
 #  My Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
