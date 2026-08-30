@@ -38,15 +38,10 @@ Bsc. Graduate at CE AUT
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
-# Stats
-![stats](https://github-profile-trophy.vercel.app/?username=mr-amirfazel)
-
-![Amirfazel GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-amirfazel&theme=algolia&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-amirfazel&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social's
 
-[<img src='https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white' alt='X' height='40'>](https://twitter.com/https://twitter.com/cleverapache)      [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='40'>](https://www.instagram.com/mr.amirfazel/)  [<img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='telegram' height='40'>](https://t.me/typical_live_wire)   [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>]([https://t.me/typical_live_wire](https://www.linkedin.com/in/amirfazel-koozegar-kaleji-229682227/)https://www.linkedin.com/in/amirfazel-koozegar-kaleji-229682227/) 
+[<img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='telegram' height='40'>](https://t.me/typical_live_wire)   [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>]([https://t.me/typical_live_wire](https://www.linkedin.com/in/amirfazel-koozegar-kaleji-229682227/)https://www.linkedin.com/in/amirfazel-koozegar-kaleji-229682227/) 
 
 ##  Joke of the Day 😁
  
